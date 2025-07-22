@@ -1,0 +1,11 @@
+{
+  "name": "calculator-node-app",
+  "version": "1.0.0",
+  "description": "A simple calculator app built with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
